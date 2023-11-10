@@ -53,15 +53,15 @@ const App = () => {
         </div>
         <div>
         <Link to="/lip-makeup" className="nav-link">
-            <img src="/images/lipstick.jpeg" alt="Lip Makeup" className="category-icon" />
+            <img src="lipstick.jpeg" alt="Lip Makeup" className="category-icon" />
             
           </Link>
           <Link to="/foundations" className="nav-link">
-            <img src="/images/foundation.jpeg" alt="Foundations" className="category-icon" />
+            <img src="foundation.jpeg" alt="Foundations" className="category-icon" />
            
           </Link>
           <Link to="/eye-makeup" className="nav-link">
-            <img src="/images/mascara.jpeg" alt="Eye Makeup" className="category-icon" />
+            <img src="mascara.jpeg" alt="Eye Makeup" className="category-icon" />
            
           </Link>
         </div>
